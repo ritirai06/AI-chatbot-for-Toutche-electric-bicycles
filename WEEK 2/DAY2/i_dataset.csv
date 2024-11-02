@@ -1,0 +1,27 @@
+                                      query,                           intent
+"""What electric bicycle models do you offer?""","""ask_bike_models"""
+"2.""Tell me about the features of Heileo M100""","ask_bike_features,"
+"3.""How much does the Heileo X200 cost?""","ask_pricing,"
+"4.""Where can I buy Toutche bikes?""","ask_dealer_location,"
+"5.""Can I schedule a test ride?""","request_test_ride,"
+"6.""My e-bike isn't charging properly""","technical_support,"
+"7.""How do I assemble the bike?""",assembly_help
+"8.""What's the price of the Toutche bike?""",pricing
+"9.""I need help with my order status.""",order_status
+"10.""Where can I buy spare parts?""",parts_inquiry
+"11.""How to charge the bike?""",battery_info
+"12.""What is the bike's top speed?",specifications
+"13.""My bike isn't working, can you help?""",troubleshooting
+"14.""Can I get a refund for my purchase?""",refund_policy
+"15.""How long does delivery take?""",delivery_info
+"16.""Do you have an app for the bike?""",app_inquiry
+"17.""Can I upgrade my battery?""",upgrade_options
+"18.""How can I reset my bike settings?""",settings_help
+"19.""Tell me more about the bike's warranty.""",warranty-info
+"20.""What is the range on a single charge?""",battery_info
+"21.""I want to test ride a bike.""",test_ride
+"22.""Where is my nearest Toutche dealer?""",dealer_locator
+"23.""What accessories are available for the bike?""",accessories_info
+"24.""How to connect the bike to Bluetooth?""",connectivity_help
+"25.""What colors are available for the bike?""",product_variants
+"26.""How do I cancel my order?""",order_cancellation
